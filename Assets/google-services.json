@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576600948568",
+    "project_id": "auth-c7df0",
+    "storage_bucket": "auth-c7df0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576600948568:android:5a7b83f6e2698902246f2d",
+        "android_client_info": {
+          "package_name": "com.freshsort.hack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576600948568-lf0qvdaf2mdbo1gl7tc864170k1mm46k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcXMskOKWapKGxLsnGiBUE93jbDqETH-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576600948568-lf0qvdaf2mdbo1gl7tc864170k1mm46k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
